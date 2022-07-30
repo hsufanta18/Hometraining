@@ -1,5 +1,5 @@
 package com.example.hometraininghelper; // 이메일 로그인 수행후
-//테스트
+//테스트111
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
